@@ -1,0 +1,23 @@
+.inp{
+    width: 30%;
+    position: absolute;
+    left: 40%;
+    box-sizing: border-box;
+    background-color: #dbd0d0;
+}
+.lab{
+    margin-left: 5%;
+}
+
+.btn{
+    width: 30%;
+    background-color: darkcyan;
+}
+
+a:hover{
+    text-decoration:underline;
+    }
+
+.navbar{
+    background-color: darkcyan;
+}
